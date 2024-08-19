@@ -2,7 +2,8 @@
 <article>
   <div *ngFor="let feat of feats" class="div">
     <div class="card">
-      <h1>{{feat.artista_principal.toLowerCase()}} ft travis scott</h1>
+      <h1>{{feat.artista_principal.toLowerCase()}}</h1>
+      <h1>ft travis scott</h1>
       <h1 >{{feat.titulo_faixa.toLowerCase()}}</h1>
       <h1>{{feat.ano}}</h1>
       <h1>{{feat.visualizacoes}} views</h1>
@@ -13,5 +14,7 @@
         <img  src={{feat.imagem}} alt="img of the album">
       </a>
     </div>
+
+
   </div>
 </article>

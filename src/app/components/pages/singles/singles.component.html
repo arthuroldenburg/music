@@ -5,6 +5,7 @@
       <h1 >{{single.titulo.toLowerCase()}}</h1>
       <h1>{{single.ano}}</h1>
       <h1 *ngIf="single.colaboradores.length > 1">ft. {{single.colaboradores.toString().toLowerCase()}}</h1>
+      <h1 *ngIf="single.colaboradores.length < 1">solo</h1>
       <h1>{{single.visualizacoes}} views</h1>
       <h1>duration: {{single.duracao}}</h1>
       <!-- <div></div> -->
@@ -13,5 +14,6 @@
         <img  src={{single.imagem}} alt="img of the album">
       </a>
     </div>
+
   </div>
 </article>

@@ -1,12 +1,40 @@
-/* .card {
-  display: inline-block;
+article {
+  margin: 5% 5% 0 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.divmaster {
+  height: 300px;
+  width: 300px;
+  display: flex;
   align-items: center;
   justify-content: center;
-} */
-
-.div {
-  margin-left: 50px;
+  text-align: start;
+  padding: auto;
+  flex-wrap: wrap;
 }
-img{
-  max-width: 10%;
+
+.card {
+  text-align: center;
+  height: 300px;
+  width: 300px;
+}
+
+
+h1 {
+  text-wrap: balance;
+  margin: auto;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+button {
+  border: 2px solid white;
+  margin-top: 5px;
+  border-radius: 15px;
 }
