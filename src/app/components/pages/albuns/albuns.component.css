@@ -1,0 +1,34 @@
+article {
+  margin: 5% 5% 0 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.divmaster{
+  height: 300px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  padding: auto;
+  flex-wrap: wrap;
+}
+
+.card {
+  text-align: center;
+  height: 300px;
+  width: 300px;
+}
+
+
+h1 {
+  text-wrap: balance;
+  margin: auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}

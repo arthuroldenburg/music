@@ -1,0 +1,20 @@
+<p *ngIf="albuns.length < 1">Carregando....</p>
+<article>
+  <div *ngFor="let album of albuns" class="divmaster">
+    <div class="card">
+      <h1 class="h1card">{{album.titulo.toLowerCase()}}</h1>
+      <h1 class="h1card">{{album.ano}}</h1>
+      <!-- <div></div> -->
+
+      <!-- <a target="_blank" href={{album.link_spotify}}> -->
+        <img class="" src={{album.capa}} alt="img of the album">
+      <!-- </a> -->
+      <button type="button" (click)="musics()">show album infos</button>
+      <div *ngFor="let music of album.faixas">
+        <h1 *ngIf="show">{{music.titulo.toLowerCase()}}</h1>
+      </div>
+    </div>
+
+
+  </div>
+</article>

@@ -1,0 +1,30 @@
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(11, 11, 11);
+  height: 40px;
+  bottom: 0px;
+  position: fixed;
+  width: 100vw;
+}
+
+footer p,a{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  list-style: none;
+  height: 100%;
+  color: antiquewhite;
+}
+
+a {
+  padding-left: 10px;
+  transition: 0.2s;
+  text-decoration: none;
+}
+
+footer a:hover{
+  transform: scale(1.1);
+}

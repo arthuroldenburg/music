@@ -1,0 +1,44 @@
+article{
+  margin: 0 5% 0 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+p {
+  font-size: large;
+}
+
+article p, h1{
+  color: rgb(216, 229, 255);
+}
+
+article img{
+  margin-top: 40px;
+  border-radius: 50%;
+  border: 2px solid rgb(216, 229, 255);
+}
+
+button {
+  /* background-color: white; */
+  transition: 0.2s;
+  color: rgb(216, 229, 255);
+  padding: 2px;
+  border: 2px solid rgb(216, 229, 255);
+  border-radius: 50px;
+}
+
+button:hover{
+  transform: scale(1.2);
+  color: white;
+  border-color: white;
+}
+
+.last {
+  margin-top: 50px;
+}

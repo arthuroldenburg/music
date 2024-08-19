@@ -1,0 +1,484 @@
+{
+  "artista": "Travis Scott",
+  "albuns": [
+    {
+      "titulo": "Rodeo",
+      "ano": 2015,
+      "capa": "https://miro.medium.com/v2/resize:fit:1400/0*p7m1aHRv7SfanSWR",
+      "link_spotify": "https://open.spotify.com/album/2uS36Lcf8jOdUz7okXvjhe",
+      "faixas": [
+        {
+          "titulo": "Pornography",
+          "duracao": "1:56",
+          "colaboradores": [],
+          "visualizacoes": "15,000,000",
+          "link_spotify": "https://open.spotify.com/track/0s2o0LwJtHJ3r8eoG8KXzS"
+        },
+        {
+          "titulo": "Oh My Dis Side",
+          "duracao": "3:21",
+          "colaboradores": ["Andre 3000"],
+          "visualizacoes": "25,000,000",
+          "link_spotify": "https://open.spotify.com/track/2f4y5dV9Q4UdoXgYkXkR1b"
+        },
+        {
+          "titulo": "3500",
+          "duracao": "4:11",
+          "colaboradores": ["Future", "2 Chainz"],
+          "visualizacoes": "30,000,000",
+          "link_spotify": "https://open.spotify.com/track/5E2qMZt9wbGo7doRAjgaQb"
+        },
+        {
+          "titulo": "Wasted",
+          "duracao": "3:12",
+          "colaboradores": ["Juicy J"],
+          "visualizacoes": "20,000,000",
+          "link_spotify": "https://open.spotify.com/track/4ahfs5DD5tQZST5VJ0oH4h"
+        },
+        {
+          "titulo": "Piss On Your Grave",
+          "duracao": "2:43",
+          "colaboradores": ["Cage"],
+          "visualizacoes": "18,000,000",
+          "link_spotify": "https://open.spotify.com/track/7dF7XzjwaXVpH5Hf8dr1uK"
+        },
+        {
+          "titulo": "Antidote",
+          "duracao": "3:54",
+          "colaboradores": [],
+          "visualizacoes": "50,000,000",
+          "link_spotify": "https://open.spotify.com/track/1tL3bmiQp9E72JZsn4gOV3"
+        },
+        {
+          "titulo": "Sdp Interlude",
+          "duracao": "1:42",
+          "colaboradores": ["Swae Lee"],
+          "visualizacoes": "22,000,000",
+          "link_spotify": "https://open.spotify.com/track/2mpAlZZFsK5Wu5AIVfLaO2"
+        },
+        {
+          "titulo": "Flying High",
+          "duracao": "2:56",
+          "colaboradores": [],
+          "visualizacoes": "17,000,000",
+          "link_spotify": "https://open.spotify.com/track/5O2WDCyy2ymT5Bd2MtwqWk"
+        },
+        {
+          "titulo": "I Can Tell",
+          "duracao": "3:13",
+          "colaboradores": [],
+          "visualizacoes": "16,000,000",
+          "link_spotify": "https://open.spotify.com/track/4VIGOCXQfLaX18rDPItj49"
+        },
+        {
+          "titulo": "Nightcrawler",
+          "duracao": "4:30",
+          "colaboradores": ["Skepta", "Migos"],
+          "visualizacoes": "28,000,000",
+          "link_spotify": "https://open.spotify.com/track/3t2ixciD57cIu74n2r8pOG"
+        },
+        {
+          "titulo": "Apple Pie",
+          "duracao": "3:12",
+          "colaboradores": [],
+          "visualizacoes": "14,000,000",
+          "link_spotify": "https://open.spotify.com/track/5MEH6VtO4h5Fz6sWdf3FvB"
+        },
+        {
+          "titulo": "Impossible",
+          "duracao": "2:47",
+          "colaboradores": [],
+          "visualizacoes": "13,000,000",
+          "link_spotify": "https://open.spotify.com/track/3kql4v4P7mXcuf1HghbSm2"
+        },
+        {
+          "titulo": "Backyard",
+          "duracao": "3:33",
+          "colaboradores": [],
+          "visualizacoes": "12,000,000",
+          "link_spotify": "https://open.spotify.com/track/0Fq1S2L2cgnpWkhjH7vDmi"
+        },
+        {
+          "titulo": "Rodeo",
+          "duracao": "2:45",
+          "colaboradores": [],
+          "visualizacoes": "11,000,000",
+          "link_spotify": "https://open.spotify.com/track/4V8nMxKoOV8KzyrMRgY6ic"
+        }
+      ]
+    },
+    {
+      "titulo": "Birds in the Trap Sing McKnight",
+      "ano": 2016,
+      "capa": "https://recordsale.de/assets/WyJ0cmF2aXMtc2NvdHRfYmlyZHMtaW4tdGhlLXRyYXAtc2luZy1tY2tuaWdodF81LmpwZyIsIndlYnAiLDQzMCw0MzBd--5c2b1b71005121f3aa687f76dc02797feb8eb5660c6ecb9a20785c82997fd429.webp",
+      "link_spotify": "https://open.spotify.com/album/1cE17chXKf6ON0NTZjq9oS",
+      "faixas": [
+        {
+          "titulo": "The Ends",
+          "duracao": "4:00",
+          "colaboradores": ["Andre 3000"],
+          "visualizacoes": "35,000,000",
+          "link_spotify": "https://open.spotify.com/track/6Oxj7TGnftOHZwDdAhccLs"
+        },
+        {
+          "titulo": "Way Back",
+          "duracao": "3:14",
+          "colaboradores": [],
+          "visualizacoes": "22,000,000",
+          "link_spotify": "https://open.spotify.com/track/0tSH4U6sP6WkQ4IhF2GMz9"
+        },
+        {
+          "titulo": "Through the Late Night",
+          "duracao": "3:10",
+          "colaboradores": ["Kid Cudi"],
+          "visualizacoes": "40,000,000",
+          "link_spotify": "https://open.spotify.com/track/7mUsWs0pHDhYPU4GwtvShb"
+        },
+        {
+          "titulo": "Biebs in the Trap",
+          "duracao": "2:56",
+          "colaboradores": ["Young Thug"],
+          "visualizacoes": "33,000,000",
+          "link_spotify": "https://open.spotify.com/track/5q5GZ3zdHX2nzuVrOlQHMA"
+        },
+        {
+          "titulo": "SDP Interlude",
+          "duracao": "3:00",
+          "colaboradores": ["Swae Lee"],
+          "visualizacoes": "27,000,000",
+          "link_spotify": "https://open.spotify.com/track/6t4L3F9F0N7ZFXxEw29Bmq"
+        },
+        {
+          "titulo": "Sweet Sweet",
+          "duracao": "3:43",
+          "colaboradores": [],
+          "visualizacoes": "19,000,000",
+          "link_spotify": "https://open.spotify.com/track/0r0ZFdAxV9iRJrO8T0Pv3S"
+        },
+        {
+          "titulo": "Outside",
+          "duracao": "3:52",
+          "colaboradores": [],
+          "visualizacoes": "20,000,000",
+          "link_spotify": "https://open.spotify.com/track/6OfL30IbjE2eZZCwoRXwX0"
+        },
+        {
+          "titulo": "Goosebumps",
+          "duracao": "3:30",
+          "colaboradores": ["Kendrick Lamar"],
+          "visualizacoes": "60,000,000",
+          "link_spotify": "https://open.spotify.com/track/0b2yF9u6w7yyKfH4FNiMgj"
+        },
+        {
+          "titulo": "First Take",
+          "duracao": "2:55",
+          "colaboradores": ["Rihanna"],
+          "visualizacoes": "25,000,000",
+          "link_spotify": "https://open.spotify.com/track/4nmf9s65F7HjRkLvh9Y8kR"
+        },
+        {
+          "titulo": "Pick Up the Phone",
+          "duracao": "3:24",
+          "colaboradores": ["Young Thug", "Quavo"],
+          "visualizacoes": "55,000,000",
+          "link_spotify": "https://open.spotify.com/track/6cyRyLrjOBfYPJ6uV8Yymz"
+        },
+        {
+          "titulo": "Lose",
+          "duracao": "2:48",
+          "colaboradores": [],
+          "visualizacoes": "15,000,000",
+          "link_spotify": "https://open.spotify.com/track/3r7e0Q6r2tEz5cIFeK5ntp"
+        },
+        {
+          "titulo": "Wonderful",
+          "duracao": "3:42",
+          "colaboradores": ["The Weeknd"],
+          "visualizacoes": "50,000,000",
+          "link_spotify": "https://open.spotify.com/track/2MybG5NwhOtFwOxyyxCeBk"
+        },
+        {
+          "titulo": "The Hooch",
+          "duracao": "2:39",
+          "colaboradores": [],
+          "visualizacoes": "14,000,000",
+          "link_spotify": "https://open.spotify.com/track/2CbcXUtKOAODuA0Qz0kWfW"
+        },
+        {
+          "titulo": "Gorgeous",
+          "duracao": "3:10",
+          "colaboradores": [],
+          "visualizacoes": "12,000,000",
+          "link_spotify": "https://open.spotify.com/track/7hV6hxZnAezp0A96IFu1bl"
+        }
+      ]
+    },
+    {
+      "titulo": "Astroworld",
+      "ano": 2018,
+      "capa": "https://media.pitchfork.com/photos/5b60babf3392ca3ddc42cb3a/2:1/w_2560%2Cc_limit/Travis%2520Scott%25206.png",
+      "link_spotify": "https://open.spotify.com/album/4i6WPlKONto6P3W9FgdjM7",
+      "faixas": [
+        {
+          "titulo": "ASTROTHUNDER",
+          "duracao": "2:18",
+          "colaboradores": [],
+          "visualizacoes": "18,000,000",
+          "link_spotify": "https://open.spotify.com/track/4ndE0aTyyBzivXXgHbcRIq"
+        },
+        {
+          "titulo": "CAROUSEL",
+          "duracao": "2:58",
+          "colaboradores": ["Frank Ocean"],
+          "visualizacoes": "35,000,000",
+          "link_spotify": "https://open.spotify.com/track/7yVETz0o8jzR6QfTquK71Z"
+        },
+        {
+          "titulo": "R.I.P. SCREW",
+          "duracao": "3:14",
+          "colaboradores": ["Swae Lee"],
+          "visualizacoes": "40,000,000",
+          "link_spotify": "https://open.spotify.com/track/5VdKrITwLQKTK1tV4LZ6T9"
+        },
+        {
+          "titulo": "WHEELS ON THE BUS",
+          "duracao": "3:12",
+          "colaboradores": [],
+          "visualizacoes": "20,000,000",
+          "link_spotify": "https://open.spotify.com/track/4tMC9eyq7Pq8vWcHK4dbVd"
+        },
+        {
+          "titulo": "SKELETONS",
+          "duracao": "4:05",
+          "colaboradores": ["Skepta", "Migos"],
+          "visualizacoes": "45,000,000",
+          "link_spotify": "https://open.spotify.com/track/4Y9IL7S9Q7EB4Y2mA8xg3D"
+        },
+        {
+          "titulo": "WAKE UP",
+          "duracao": "3:29",
+          "colaboradores": ["The Weeknd"],
+          "visualizacoes": "55,000,000",
+          "link_spotify": "https://open.spotify.com/track/0z4MZpZExFZPzjSlWkE5sS"
+        },
+        {
+          "titulo": "5% TINT",
+          "duracao": "2:51",
+          "colaboradores": [],
+          "visualizacoes": "25,000,000",
+          "link_spotify": "https://open.spotify.com/track/5nU4Vqu1m5a5cPA0Ic1JmN"
+        },
+        {
+          "titulo": "WHO? WHAT!",
+          "duracao": "3:02",
+          "colaboradores": [],
+          "visualizacoes": "15,000,000",
+          "link_spotify": "https://open.spotify.com/track/5snFjT9UtyuqIt6W8MDI3M"
+        },
+        {
+          "titulo": "BUTTERFLY EFFECT",
+          "duracao": "2:46",
+          "colaboradores": [],
+          "visualizacoes": "30,000,000",
+          "link_spotify": "https://open.spotify.com/track/1q8EMhTPi4q9cZjPwmCB8L"
+        },
+        {
+          "titulo": "HOUSTONFORNICATION",
+          "duracao": "3:19",
+          "colaboradores": [],
+          "visualizacoes": "22,000,000",
+          "link_spotify": "https://open.spotify.com/track/4lE0KfPov8c7ThzHID12o0"
+        },
+        {
+          "titulo": "COFFEE BEAN",
+          "duracao": "4:08",
+          "colaboradores": [],
+          "visualizacoes": "28,000,000",
+          "link_spotify": "https://open.spotify.com/track/0pVe6jfsR2sBya35zeijm3"
+        },
+        {
+          "titulo": "CAN'T SAY",
+          "duracao": "3:02",
+          "colaboradores": [],
+          "visualizacoes": "20,000,000",
+          "link_spotify": "https://open.spotify.com/track/6GrjBr9sIPotPpLDeNR5K7"
+        }
+      ]
+    },
+    {
+      "titulo": "Utopia",
+      "ano": 2023,
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/4/48/Utopia_-_Travis_Scott.png",
+      "link_spotify": "https://open.spotify.com/album/4UV06MJw7ni8oqz6aIT0Wb",
+      "faixas": [
+        {
+          "titulo": "Utopia Intro",
+          "duracao": "1:58",
+          "colaboradores": [],
+          "visualizacoes": "12,000,000",
+          "link_spotify": "https://open.spotify.com/track/2oF3PA7PbSBH9G5xZ0qG6R"
+        },
+        {
+          "titulo": "Airtime",
+          "duracao": "3:07",
+          "colaboradores": [],
+          "visualizacoes": "22,000,000",
+          "link_spotify": "https://open.spotify.com/track/2SRUq40NSwaHVc2Kh2lueq"
+        },
+        {
+          "titulo": "HYPERLINK",
+          "duracao": "3:21",
+          "colaboradores": [],
+          "visualizacoes": "25,000,000",
+          "link_spotify": "https://open.spotify.com/track/6Txp6Y2G0iE3aIv6Wkq8R2"
+        },
+        {
+          "titulo": "SKELETONS II",
+          "duracao": "4:02",
+          "colaboradores": ["Skepta", "Migos"],
+          "visualizacoes": "30,000,000",
+          "link_spotify": "https://open.spotify.com/track/6L7bi5HlsnL5C6XjyH3WXx"
+        },
+        {
+          "titulo": "RAGE",
+          "duracao": "3:15",
+          "colaboradores": [],
+          "visualizacoes": "20,000,000",
+          "link_spotify": "https://open.spotify.com/track/2wZg3aPehoyr20WzZkjm4A"
+        },
+        {
+          "titulo": "SAINT LAURENT",
+          "duracao": "2:56",
+          "colaboradores": [],
+          "visualizacoes": "18,000,000",
+          "link_spotify": "https://open.spotify.com/track/6Y5Gjxozg3Jkm5vCnHb9c8"
+        },
+        {
+          "titulo": "GOLD",
+          "duracao": "3:43",
+          "colaboradores": [],
+          "visualizacoes": "28,000,000",
+          "link_spotify": "https://open.spotify.com/track/4aDFTg7KX2tTpHp3Y8Vnqx"
+        },
+        {
+          "titulo": "DYSTOPIA",
+          "duracao": "3:32",
+          "colaboradores": [],
+          "visualizacoes": "24,000,000",
+          "link_spotify": "https://open.spotify.com/track/5QktSGTyl8mNFs3X8o2WTa"
+        },
+        {
+          "titulo": "NIRVANA",
+          "duracao": "4:11",
+          "colaboradores": [],
+          "visualizacoes": "32,000,000",
+          "link_spotify": "https://open.spotify.com/track/3GiSC5ddxzFeG7jLF2D6zp"
+        },
+        {
+          "titulo": "NOISE",
+          "duracao": "2:59",
+          "colaboradores": [],
+          "visualizacoes": "19,000,000",
+          "link_spotify": "https://open.spotify.com/track/2H4RnykSukRz2sm8HtUGsD"
+        },
+        {
+          "titulo": "FUTURE PAST",
+          "duracao": "3:45",
+          "colaboradores": [],
+          "visualizacoes": "22,000,000",
+          "link_spotify": "https://open.spotify.com/track/2RE2RO4vXh8gJ2V90LOd4M"
+        },
+        {
+          "titulo": "REALITY",
+          "duracao": "3:28",
+          "colaboradores": [],
+          "visualizacoes": "20,000,000",
+          "link_spotify": "https://open.spotify.com/track/2cYFFw84NF95ndgBbRYFPF"
+        },
+        {
+          "titulo": "FALLEN",
+          "duracao": "3:50",
+          "colaboradores": [],
+          "visualizacoes": "21,000,000",
+          "link_spotify": "https://open.spotify.com/track/3fySE4K4XoCCEO1Hf9oU6p"
+        }
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "titulo": "Sicko Mode",
+      "ano": 2018,
+      "duracao": "5:12",
+      "imagem": "https://media.pitchfork.com/photos/5b60babf3392ca3ddc42cb3a/2:1/w_2560%2Cc_limit/Travis%2520Scott%25206.png",
+      "colaboradores": ["Drake", "Swae Lee", "Big Hawk"],
+      "visualizacoes": "75,000,000",
+      "link_spotify": "https://open.spotify.com/track/5sTjMG6EbmDCAxUu1x0FtK"
+    },
+    {
+      "titulo": "Highest in the Room",
+      "ano": 2019,
+      "duracao": "2:54",
+      "imagem": "https://steamuserimages-a.akamaihd.net/ugc/1253638072203268961/CA4DD2C97C1B832A6A2C6C5C933E986C23FA0BD6/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+      "colaboradores": [],
+      "visualizacoes": "50,000,000",
+      "link_spotify": "https://open.spotify.com/track/2GkLqkCFHS0M0nEmBnm3lQ"
+    },
+    {
+      "titulo": "Franchise",
+      "ano": 2020,
+      "duracao": "2:54",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/f/f7/Travis_Scott_-_Franchise.png",
+      "colaboradores": ["Young Thug", "M.I.A."],
+      "visualizacoes": "55,000,000",
+      "link_spotify": "https://open.spotify.com/track/1sF8FVg8btMzjDKTZ5ZKJ6"
+    },
+    {
+      "titulo": "Escape Plan",
+      "ano": 2021,
+      "duracao": "2:54",
+      "imagem": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/aff44f165343899.64060fb7242f5.jpg",
+      "colaboradores": [],
+      "visualizacoes": "40,000,000",
+      "link_spotify": "https://open.spotify.com/track/7nP4uUjKNFCmIOdV9M0phu"
+    },
+    {
+      "titulo": "Telekinesis",
+      "ano": 2022,
+      "duracao": "3:10",
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/48/Utopia_-_Travis_Scott.png",
+      "colaboradores": [],
+      "visualizacoes": "30,000,000",
+      "link_spotify": "https://open.spotify.com/track/3JxOAYl12pboRcXRXpZ6mr"
+    }
+  ],
+  "participacoes": [
+    {
+      "titulo_faixa": "Pick Up the Phone",
+      "artista_principal": "Young Thug & Quavo",
+      "ano": 2016,
+      "duracao": "1:51",
+      "imagem":"https://upload.wikimedia.org/wikipedia/en/3/3f/PickUpThePhoneYoungThug.jpg",
+      "visualizacoes": "45,000,000",
+      "link_spotify": "https://open.spotify.com/track/5uX1sU0i1mhKPVRnHhn8k5"
+    },
+    {
+      "titulo_faixa": "Goosebumps",
+      "artista_principal": "Kendrick Lamar",
+      "ano": 2016,
+      "duracao": "3:10",
+      "imagem": "https://recordsale.de/assets/WyJ0cmF2aXMtc2NvdHRfYmlyZHMtaW4tdGhlLXRyYXAtc2luZy1tY2tuaWdodF81LmpwZyIsIndlYnAiLDQzMCw0MzBd--5c2b1b71005121f3aa687f76dc02797feb8eb5660c6ecb9a20785c82997fd429.webp",
+      "visualizacoes": "55,000,000",
+      "link_spotify": "https://open.spotify.com/track/0sWpdJqHQmg1ayHgFy3Skf"
+    },
+    {
+      "titulo_faixa": "No Role Modelz",
+      "artista_principal": "J. Cole",
+      "ano": 2014,
+      "duracao": "4:50",
+      "imagem": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/b9/62/92b9624d-e9fb-0e4f-f14b-6f1f96c0a3e0/21UM1IM54414.rgb.jpg/800x800cc.jpg",
+      "visualizacoes": "30,000,000",
+      "link_spotify": "https://open.spotify.com/track/0Vu4wzLiwl8lE5OonRGUCC"
+    }
+  ]
+}
