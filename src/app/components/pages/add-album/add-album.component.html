@@ -1,0 +1,41 @@
+<article>
+  <div>
+    insert new album
+    <form (ngSubmit)="onSubmit()" action="" #albumForm="ngForm">
+      <input type="string" placeholder="title" id="titulo" name="titulo" [(ngModel)]="album.titulo" required>
+      <br>
+      <input type="number" placeholder="year of release" id="ano" name="ano" [(ngModel)]="album.ano" required >
+      <br>
+      <input type="string" placeholder="album cover" id="capa" name="capa" [(ngModel)]="album.capa" required>
+      <br>
+      <input type="string" placeholder="link spotify" id="link_spotify" name="link_spotify" [(ngModel)]="album.link_spotify" required>
+      <br>
+      <button type="submit" [disabled]="!albumForm.form.valid">add album</button>
+      <div *ngIf="message">
+        <h3 class="msg">{{message}}</h3>
+      </div>
+    </form>
+  </div>
+
+<!-- <div class="margin">
+  insert music into album
+  <form (ngSubmit)="onMusicSubmit()" action="" #musicInsertForm="ngForm">
+    <select name="album" id="" [(ngModel)]="album.titulo" title="album name">
+      <option *ngFor="let album of albuns" value={{album.titulo}}>{{album.titulo}}</option>
+    </select>
+    <br>
+    <input type="string" placeholder="music name" required>
+    <br>
+    <input type="string" placeholder="duration 0:00" required>
+    <br>
+    <input type="string" placeholder="feat">
+    <br>
+    <input type="string" placeholder="views" required>
+    <br>
+    <input type="string" placeholder="link spotify" required>
+    <br>
+    <button type="submit" [disabled]="!musicInsertForm.form.valid">add album</button>
+  </form>
+</div> -->
+
+</article>

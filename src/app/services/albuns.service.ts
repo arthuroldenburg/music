@@ -21,4 +21,13 @@ export class AlbunsService {
   add(param: Album): Observable<any> {
     return this.http.post<any>(this.url, param);
   }
+
+  delete(id: string): void {
+    this.http.delete(`${this.url}/${id}`);
+  }
+
+  // addMusic(albumName:String, music: Music): Observable<any> {
+  //   this.http.put(this.url)
+
+  // }
 }

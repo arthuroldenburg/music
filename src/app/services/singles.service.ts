@@ -21,4 +21,8 @@ export class SinglesService {
   add(param: Single): Observable<any> {
     return this.http.post<any>(this.url, param);
   }
+
+  delete(id:string): void {
+    this.http.delete(`${this.url}/${id}`)
+  }
 }

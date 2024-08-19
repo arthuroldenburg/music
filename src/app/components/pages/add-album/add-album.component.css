@@ -1,0 +1,28 @@
+article {
+  margin: 2% 5% 0 5%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+button:disabled {
+  display: none;
+}
+
+form {
+  color: black;
+}
+
+.margin {
+  margin-left: 50px;
+}
+
+button{
+  color: white;
+}
+
+.msg {
+  color: white;
+}

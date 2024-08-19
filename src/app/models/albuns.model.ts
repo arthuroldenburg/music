@@ -1,4 +1,5 @@
 export interface Album {
+  id:string;
   titulo:string;
   ano:number;
   capa:string;
